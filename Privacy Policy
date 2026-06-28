@@ -1,0 +1,45 @@
+Privacy Policy — WealthFolio
+Last updated: 28 June 2026
+WealthFolio ("the app") is an offline-first portfolio, dividend and capital-gains
+tracker for the Pakistan Stock Exchange. This policy explains exactly what data
+the app handles.
+What we store
+Your portfolio data — trades, dividends, cash flows, watchlist, prices and
+settings — is stored only on your device. We do not have a server that
+receives or holds this data by default.
+Data we do not collect
+We do not collect personal identifiers, contacts, location, advertising IDs
+or device fingerprints.
+The app contains no ads, no analytics and no third-party trackers.
+No account is required to use the app.
+Internet use
+The app works fully offline. It connects to the internet only for two optional
+features:
+Live share prices. When you open the Holdings tab or tap refresh, the app
+requests current prices from the public Pakistan Stock Exchange data portal
+(`dps.psx.com.pk`). Only public market prices are fetched; no personal data is
+sent.
+Cloud Backup & Sync (optional). If — and only if — you choose to sign in,
+the app uses Supabase to store a backup of your portfolio under your account:
+We process the email address you sign up with (for authentication).
+We store a copy of your portfolio data so you can sync it across your
+devices.
+This data is protected so that only your authenticated account can read or
+write it. You can delete it at any time by signing in and removing your
+backup, or by deleting your account.
+If you never sign in, no data ever leaves your device.
+Data sharing
+We do not sell or share your data with any third party. The only processors
+involved are the services you explicitly use: the PSX data portal (public prices)
+and Supabase (only if you enable Cloud Sync).
+Data retention & deletion
+On-device data is removed when you uninstall the app or use the in-app reset.
+Cloud backups (if you created any) remain until you delete them or your account.
+Children
+The app is not directed at children under 13 and does not knowingly collect data
+from them.
+Disclaimer
+All figures (returns, dividends, capital gains and tax estimates) are for your
+information only and are not financial, tax or investment advice.
+Contact
+Questions about this policy: amitaf.1892@gmail.com
