@@ -1,0 +1,49 @@
+Privacy Policy — WealthFolio
+Last updated: 28 June 2026
+WealthFolio ("the app") is an offline-first portfolio, dividend and capital-gains
+tracker for the Pakistan Stock Exchange. This policy explains what data the app
+handles.
+What we store
+Your portfolio data — trades, dividends, cash flows, watchlist, prices and
+settings — is stored only on your device. We do not run a server that
+receives or holds this data by default.
+What we do not collect ourselves
+We do not collect your contacts, location, or your portfolio for ourselves.
+We use no analytics of our own.
+No account is required to use the app's core features.
+Advertising (Google AdMob)
+The app displays ads using Google AdMob. To serve and measure ads, Google may
+collect and process certain device information and identifiers (such as your
+advertising ID) in accordance with Google's Privacy Policy
+(https://policies.google.com/privacy) and the Google Play services terms. You can
+reset or limit your advertising ID in your device settings
+(Settings → Privacy → Ads).
+Internet use
+The app works offline for its core features. It connects to the internet only for:
+Ads — to load ads via Google AdMob (see above).
+Live share prices — when you open Holdings or tap refresh, the app requests
+current prices from the public Pakistan Stock Exchange data portal
+(`dps.psx.com.pk`). Only public market prices are fetched; no personal data is
+sent.
+Cloud Backup & Sync (optional) — only if you choose to sign in, the app uses
+Supabase to store a backup of your portfolio under your account:
+We process the email address you sign up with (for authentication).
+We store a copy of your portfolio data so you can sync it across devices.
+Only your authenticated account can read or write it. You can delete it any
+time by removing your backup or deleting your account.
+If you never sign in, your portfolio never leaves your device.
+Data sharing
+We do not sell your data. Data is processed only by the services involved in the
+features you use: Google AdMob (ads), the PSX data portal (public prices),
+and Supabase (only if you enable Cloud Sync).
+Data retention & deletion
+On-device data is removed when you uninstall the app or use the in-app reset.
+Cloud backups (if you created any) remain until you delete them or your account.
+Children
+The app is not directed at children under 13 and does not knowingly collect data
+from them.
+Disclaimer
+All figures (returns, dividends, capital gains and tax estimates) are for your
+information only and are not financial, tax or investment advice.
+Contact
+Questions about this policy: amitaf.1892@gmail.com
